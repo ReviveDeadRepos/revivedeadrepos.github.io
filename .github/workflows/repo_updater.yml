@@ -1,0 +1,123 @@
+name: Update Dormant Repos List
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # Runs daily at 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update_repos:
+    runs-on: ubuntu-latest
+    env:
+      QUERY: "stars:>100 archived:false"
+      PER_PAGE: 10
+      PAGES: 5
+      OUTPUT_FILE: repos.json
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Install jq
+      run: sudo apt-get install -y jq
+
+    - name: Fetch repositories and check owner activity
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        TOKEN_HEADER=""
+        if [ -n "$GITHUB_TOKEN" ]; then
+          TOKEN_HEADER="-H Authorization: Bearer $GITHUB_TOKEN"
+        fi
+
+        API="https://api.github.com/search/repositories"
+        OUT="${OUTPUT_FILE}"
+        QUERY_ENCODED=$(echo "$QUERY" | sed 's/ /+/g')
+
+        echo "[" > "$OUT"
+        first=1
+
+        # Check if user has any public events in last 3 years (1095 days)
+        check_owner_active() {
+          local owner="$1"
+          local events_url="https://api.github.com/users/$owner/events/public"
+          local now=$(date -u +%s)
+          local cutoff=$((now - 1095*24*60*60))  # 3 years in seconds
+
+          events=$(curl -s $TOKEN_HEADER "$events_url")
+          if echo "$events" | jq -e . >/dev/null 2>&1; then
+            recent_event=$(echo "$events" | jq -r --arg cutoff "$cutoff" '
+              map(select((.created_at | fromdateiso8601) > ($cutoff | tonumber))) | length
+            ')
+            if [ "$recent_event" -gt 0 ]; then
+              echo "true"
+            else
+              echo "false"
+            fi
+          else
+            echo "false"
+          fi
+        }
+
+        declare -A owner_status
+
+        for ((page=1; page<=PAGES; page++)); do
+          echo "Fetching page $page..."
+          response=$(curl -s -H "Accept: application/vnd.github+json" $TOKEN_HEADER \
+            "${API}?q=${QUERY_ENCODED}&sort=updated&order=asc&per_page=${PER_PAGE}&page=${page}")
+
+          has_items=$(echo "$response" | jq '.items != null')
+
+          if [ "$has_items" != "true" ]; then
+            echo "Error: No items found or API limit reached."
+            echo "$response"
+            break
+          fi
+
+          repos=$(echo "$response" | jq -c '.items[] | {
+            name: .name,
+            owner: .owner.login,
+            url: .html_url,
+            last_updated: .pushed_at,
+            description: .description
+          }')
+
+          while IFS= read -r repo; do
+            owner=$(echo "$repo" | jq -r '.owner')
+
+            if [ -z "${owner_status[$owner]}" ]; then
+              active=$(check_owner_active "$owner")
+              owner_status[$owner]=$active
+            else
+              active=${owner_status[$owner]}
+            fi
+
+            repo_with_status=$(echo "$repo" | jq --arg active "$active" '. + {owner_active: ($active == "true")}')
+            
+            if [ $first -eq 0 ]; then
+              echo "," >> "$OUT"
+            fi
+            echo "$repo_with_status" >> "$OUT"
+            first=0
+          done <<< "$repos"
+        done
+
+        echo "]" >> "$OUT"
+
+        echo "Saved to $OUT"
+
+    - name: Commit and push repos.json
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+        git add repos.json
+        # Only commit if changes detected
+        if git diff --cached --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m "Update repos.json with owner activity [skip ci]"
+          git push
+        fi
