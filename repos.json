@@ -149,7 +149,7 @@
   "url": "https://github.com/leonho/iphone-libs",
   "last_updated": "2008-11-12T18:48:11Z",
   "description": "Varies useful libs, classes, and methods for iPhone development",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -194,15 +194,6 @@
   "url": "https://github.com/jamis/fuzzyfinder_textmate",
   "last_updated": "2008-12-31T15:40:48Z",
   "description": "A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained now, see http://weblog.jamisbuck.org/2009/1/28/the-future-of-fuzzyfinder-textmate)",
-  "owner_active": true
-}
-,
-{
-  "name": "pastebin",
-  "owner": "weierophinney",
-  "url": "https://github.com/weierophinney/pastebin",
-  "last_updated": "2008-12-31T21:18:47Z",
-  "description": "Pastebin built using Dojo for UI elements",
   "owner_active": true
 }
 ,
@@ -446,6 +437,15 @@
   "url": "https://github.com/ryan-allen/workflow",
   "last_updated": "2009-04-30T05:34:36Z",
   "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
+  "owner_active": true
+}
+,
+{
+  "name": "git-presentations",
+  "owner": "schacon",
+  "url": "https://github.com/schacon/git-presentations",
+  "last_updated": "2009-05-05T00:59:01Z",
+  "description": "some of my git presentations for others to use to spread the word. Warning: this clone is rather large.",
   "owner_active": true
 }
 ]
