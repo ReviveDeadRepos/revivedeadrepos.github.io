@@ -239,7 +239,7 @@
   "url": "https://github.com/enormego/askit",
   "last_updated": "2009-02-05T21:12:12Z",
   "description": "ASKit is an easy to use library for your iOS applications. ASKit provides AppStore styled table views [tags:ios,appstore,objective-c]",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -311,7 +311,7 @@
   "url": "https://github.com/takuma104/iphone-rubycocoa",
   "last_updated": "2009-03-08T16:52:29Z",
   "description": "Ruby / RubyCocoa for the iPhone SDK",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
