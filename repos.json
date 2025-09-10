@@ -68,7 +68,7 @@
   "url": "https://github.com/Sutto/rubyflow",
   "last_updated": "2008-08-08T08:30:00Z",
   "description": "A gitified copy of Peter Cooper's Rubyflow website",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -104,7 +104,7 @@
   "url": "https://github.com/relevance/streamlined",
   "last_updated": "2008-09-28T18:24:22Z",
   "description": null,
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -203,7 +203,7 @@
   "url": "https://github.com/leahneukirchen/rum",
   "last_updated": "2009-01-12T18:51:52Z",
   "description": "a gRand Unified Mapper for Rack",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -302,7 +302,7 @@
   "url": "https://github.com/nakajima/sinatras-hat",
   "last_updated": "2009-03-08T00:24:55Z",
   "description": "lol",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -437,7 +437,7 @@
   "url": "https://github.com/ryan-allen/workflow",
   "last_updated": "2009-04-30T05:34:36Z",
   "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -446,6 +446,6 @@
   "url": "https://github.com/schacon/git-presentations",
   "last_updated": "2009-05-05T00:59:01Z",
   "description": "some of my git presentations for others to use to spread the word. Warning: this clone is rather large.",
-  "owner_active": true
+  "owner_active": false
 }
 ]
