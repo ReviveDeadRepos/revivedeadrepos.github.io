@@ -23,7 +23,7 @@
   "url": "https://github.com/rails/acts_as_tree",
   "last_updated": "2008-05-29T20:25:50Z",
   "description": "NOTICE: official repository moved to https://github.com/amerine/acts_as_tree",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -32,7 +32,7 @@
   "url": "https://github.com/rails/auto_complete",
   "last_updated": "2008-05-29T20:28:34Z",
   "description": "NOTICE: official repository moved to https://github.com/david-kerins/auto_complete",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -68,7 +68,7 @@
   "url": "https://github.com/Sutto/rubyflow",
   "last_updated": "2008-08-08T08:30:00Z",
   "description": "A gitified copy of Peter Cooper's Rubyflow website",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -104,7 +104,7 @@
   "url": "https://github.com/relevance/streamlined",
   "last_updated": "2008-09-28T18:24:22Z",
   "description": null,
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -194,7 +194,7 @@
   "url": "https://github.com/jamis/fuzzyfinder_textmate",
   "last_updated": "2008-12-31T15:40:48Z",
   "description": "A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained now, see http://weblog.jamisbuck.org/2009/1/28/the-future-of-fuzzyfinder-textmate)",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -284,7 +284,7 @@
   "url": "https://github.com/rails/in_place_editing",
   "last_updated": "2009-02-28T03:00:39Z",
   "description": "NOTICE: official repository moved to https://github.com/amerine/in_place_editing",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -302,7 +302,7 @@
   "url": "https://github.com/nakajima/sinatras-hat",
   "last_updated": "2009-03-08T00:24:55Z",
   "description": "lol",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -392,7 +392,7 @@
   "url": "https://github.com/maccman/acts_as_recommendable",
   "last_updated": "2009-04-17T11:13:45Z",
   "description": "Collaborative Filtering for Rails",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -446,6 +446,6 @@
   "url": "https://github.com/schacon/git-presentations",
   "last_updated": "2009-05-05T00:59:01Z",
   "description": "some of my git presentations for others to use to spread the word. Warning: this clone is rather large.",
-  "owner_active": false
+  "owner_active": true
 }
 ]
