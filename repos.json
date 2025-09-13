@@ -23,7 +23,7 @@
   "url": "https://github.com/rails/acts_as_tree",
   "last_updated": "2008-05-29T20:25:50Z",
   "description": "NOTICE: official repository moved to https://github.com/amerine/acts_as_tree",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -32,7 +32,7 @@
   "url": "https://github.com/rails/auto_complete",
   "last_updated": "2008-05-29T20:28:34Z",
   "description": "NOTICE: official repository moved to https://github.com/david-kerins/auto_complete",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -59,7 +59,7 @@
   "url": "https://github.com/taf2/libebb",
   "last_updated": "2008-08-07T02:50:40Z",
   "description": "a lightweight high-performance HTTP server library for C",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -68,7 +68,7 @@
   "url": "https://github.com/Sutto/rubyflow",
   "last_updated": "2008-08-08T08:30:00Z",
   "description": "A gitified copy of Peter Cooper's Rubyflow website",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -113,7 +113,7 @@
   "url": "https://github.com/jeresig/env-js",
   "last_updated": "2008-10-12T15:27:10Z",
   "description": "A pure-JavaScript browser environment.",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -149,7 +149,7 @@
   "url": "https://github.com/leonho/iphone-libs",
   "last_updated": "2008-11-12T18:48:11Z",
   "description": "Varies useful libs, classes, and methods for iPhone development",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -284,7 +284,7 @@
   "url": "https://github.com/rails/in_place_editing",
   "last_updated": "2009-02-28T03:00:39Z",
   "description": "NOTICE: official repository moved to https://github.com/amerine/in_place_editing",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -320,7 +320,7 @@
   "url": "https://github.com/activefx/restful_authentication_tutorial",
   "last_updated": "2009-03-22T01:12:16Z",
   "description": "Full featured restful authentication starter app from http://railsforum.com/viewtopic.php?id=14216 combining role requirement, open id authentication, recaptcha, ui, debugging, and security plugins. ",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -392,7 +392,7 @@
   "url": "https://github.com/maccman/acts_as_recommendable",
   "last_updated": "2009-04-17T11:13:45Z",
   "description": "Collaborative Filtering for Rails",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -446,6 +446,6 @@
   "url": "https://github.com/schacon/git-presentations",
   "last_updated": "2009-05-05T00:59:01Z",
   "description": "some of my git presentations for others to use to spread the word. Warning: this clone is rather large.",
-  "owner_active": true
+  "owner_active": false
 }
 ]
