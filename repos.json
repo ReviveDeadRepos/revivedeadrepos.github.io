@@ -23,7 +23,7 @@
   "url": "https://github.com/rails/acts_as_tree",
   "last_updated": "2008-05-29T20:25:50Z",
   "description": "NOTICE: official repository moved to https://github.com/amerine/acts_as_tree",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -32,7 +32,7 @@
   "url": "https://github.com/rails/auto_complete",
   "last_updated": "2008-05-29T20:28:34Z",
   "description": "NOTICE: official repository moved to https://github.com/david-kerins/auto_complete",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -59,7 +59,7 @@
   "url": "https://github.com/taf2/libebb",
   "last_updated": "2008-08-07T02:50:40Z",
   "description": "a lightweight high-performance HTTP server library for C",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -284,7 +284,7 @@
   "url": "https://github.com/rails/in_place_editing",
   "last_updated": "2009-02-28T03:00:39Z",
   "description": "NOTICE: official repository moved to https://github.com/amerine/in_place_editing",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -311,7 +311,7 @@
   "url": "https://github.com/takuma104/iphone-rubycocoa",
   "last_updated": "2009-03-08T16:52:29Z",
   "description": "Ruby / RubyCocoa for the iPhone SDK",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -392,7 +392,7 @@
   "url": "https://github.com/maccman/acts_as_recommendable",
   "last_updated": "2009-04-17T11:13:45Z",
   "description": "Collaborative Filtering for Rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -428,7 +428,7 @@
   "url": "https://github.com/adamwiggins/rifgraf",
   "last_updated": "2009-04-29T19:02:22Z",
   "description": "Fire-and-forget data collection and graphing service",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -437,7 +437,7 @@
   "url": "https://github.com/ryan-allen/workflow",
   "last_updated": "2009-04-30T05:34:36Z",
   "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
