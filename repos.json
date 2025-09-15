@@ -50,7 +50,7 @@
   "url": "https://github.com/sjlombardo/acts_as_network",
   "last_updated": "2008-07-19T15:13:31Z",
   "description": "Rails plugin for cleanly modeling social networks using ActiveRecord",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -104,7 +104,7 @@
   "url": "https://github.com/relevance/streamlined",
   "last_updated": "2008-09-28T18:24:22Z",
   "description": null,
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -113,7 +113,7 @@
   "url": "https://github.com/jeresig/env-js",
   "last_updated": "2008-10-12T15:27:10Z",
   "description": "A pure-JavaScript browser environment.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -122,7 +122,7 @@
   "url": "https://github.com/wycats/merb-core",
   "last_updated": "2008-10-13T02:31:34Z",
   "description": "Merb Core: All you need. None you don't.",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -131,7 +131,7 @@
   "url": "https://github.com/wycats/merb-more",
   "last_updated": "2008-10-15T18:43:13Z",
   "description": "Merb More: The Full Stack. Take what you need; leave what you don't.",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -149,7 +149,7 @@
   "url": "https://github.com/leonho/iphone-libs",
   "last_updated": "2008-11-12T18:48:11Z",
   "description": "Varies useful libs, classes, and methods for iPhone development",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -194,7 +194,7 @@
   "url": "https://github.com/jamis/fuzzyfinder_textmate",
   "last_updated": "2008-12-31T15:40:48Z",
   "description": "A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained now, see http://weblog.jamisbuck.org/2009/1/28/the-future-of-fuzzyfinder-textmate)",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -203,7 +203,7 @@
   "url": "https://github.com/leahneukirchen/rum",
   "last_updated": "2009-01-12T18:51:52Z",
   "description": "a gRand Unified Mapper for Rack",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -266,7 +266,7 @@
   "url": "https://github.com/wycats/merb-plugins",
   "last_updated": "2009-02-24T23:57:04Z",
   "description": "Merb Plugins: Even more modules to hook up your Merb installation",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -302,7 +302,7 @@
   "url": "https://github.com/nakajima/sinatras-hat",
   "last_updated": "2009-03-08T00:24:55Z",
   "description": "lol",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -311,7 +311,7 @@
   "url": "https://github.com/takuma104/iphone-rubycocoa",
   "last_updated": "2009-03-08T16:52:29Z",
   "description": "Ruby / RubyCocoa for the iPhone SDK",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -320,7 +320,7 @@
   "url": "https://github.com/activefx/restful_authentication_tutorial",
   "last_updated": "2009-03-22T01:12:16Z",
   "description": "Full featured restful authentication starter app from http://railsforum.com/viewtopic.php?id=14216 combining role requirement, open id authentication, recaptcha, ui, debugging, and security plugins. ",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -428,7 +428,7 @@
   "url": "https://github.com/adamwiggins/rifgraf",
   "last_updated": "2009-04-29T19:02:22Z",
   "description": "Fire-and-forget data collection and graphing service",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
