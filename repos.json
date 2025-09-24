@@ -212,7 +212,7 @@
   "url": "https://github.com/jm/context",
   "last_updated": "2009-01-31T15:31:17Z",
   "description": "A super tight library to add contexts to tests.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -221,7 +221,7 @@
   "url": "https://github.com/jm/matchy",
   "last_updated": "2009-01-31T15:37:32Z",
   "description": "RSpec-esque matchers for Test::Unit",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -374,7 +374,7 @@
   "url": "https://github.com/jm/rails-templates",
   "last_updated": "2009-04-09T22:47:33Z",
   "description": "A library of neat Rails application templates.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
