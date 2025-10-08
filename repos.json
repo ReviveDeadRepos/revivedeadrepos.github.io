@@ -311,7 +311,7 @@
   "url": "https://github.com/takuma104/iphone-rubycocoa",
   "last_updated": "2009-03-08T16:52:29Z",
   "description": "Ruby / RubyCocoa for the iPhone SDK",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -338,7 +338,7 @@
   "url": "https://github.com/cheald/scrap",
   "last_updated": "2009-03-25T23:21:28Z",
   "description": "A Rails metal handler for analyzing your processes' memory usage.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
