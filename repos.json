@@ -122,7 +122,7 @@
   "url": "https://github.com/wycats/merb-core",
   "last_updated": "2008-10-13T02:31:34Z",
   "description": "Merb Core: All you need. None you don't.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -131,7 +131,7 @@
   "url": "https://github.com/wycats/merb-more",
   "last_updated": "2008-10-15T18:43:13Z",
   "description": "Merb More: The Full Stack. Take what you need; leave what you don't.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -266,7 +266,7 @@
   "url": "https://github.com/wycats/merb-plugins",
   "last_updated": "2009-02-24T23:57:04Z",
   "description": "Merb Plugins: Even more modules to hook up your Merb installation",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
