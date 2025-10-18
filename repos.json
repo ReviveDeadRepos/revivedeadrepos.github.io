@@ -23,7 +23,7 @@
   "url": "https://github.com/rails/acts_as_tree",
   "last_updated": "2008-05-29T20:25:50Z",
   "description": "NOTICE: official repository moved to https://github.com/amerine/acts_as_tree",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -32,7 +32,7 @@
   "url": "https://github.com/rails/auto_complete",
   "last_updated": "2008-05-29T20:28:34Z",
   "description": "NOTICE: official repository moved to https://github.com/david-kerins/auto_complete",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -86,7 +86,7 @@
   "url": "https://github.com/chad/gitjour",
   "last_updated": "2008-08-24T01:41:03Z",
   "description": "Serve git and advertise with bonjour",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -104,7 +104,7 @@
   "url": "https://github.com/relevance/streamlined",
   "last_updated": "2008-09-28T18:24:22Z",
   "description": null,
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -176,7 +176,7 @@
   "url": "https://github.com/technoweenie/masochism",
   "last_updated": "2008-12-16T05:00:09Z",
   "description": "ActiveRecord connection proxy for master/slave connections",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -284,7 +284,7 @@
   "url": "https://github.com/rails/in_place_editing",
   "last_updated": "2009-02-28T03:00:39Z",
   "description": "NOTICE: official repository moved to https://github.com/amerine/in_place_editing",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -437,7 +437,7 @@
   "url": "https://github.com/ryan-allen/workflow",
   "last_updated": "2009-04-30T05:34:36Z",
   "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -446,6 +446,6 @@
   "url": "https://github.com/schacon/git-presentations",
   "last_updated": "2009-05-05T00:59:01Z",
   "description": "some of my git presentations for others to use to spread the word. Warning: this clone is rather large.",
-  "owner_active": true
+  "owner_active": false
 }
 ]
