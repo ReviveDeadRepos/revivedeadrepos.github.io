@@ -257,7 +257,7 @@
   "url": "https://github.com/karmi/pushr",
   "last_updated": "2009-02-19T10:26:56Z",
   "description": "Deploy Rails applications automatically by running Capistrano tasks with Git post-commit hooks",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -302,7 +302,7 @@
   "url": "https://github.com/nakajima/sinatras-hat",
   "last_updated": "2009-03-08T00:24:55Z",
   "description": "lol",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -311,7 +311,7 @@
   "url": "https://github.com/takuma104/iphone-rubycocoa",
   "last_updated": "2009-03-08T16:52:29Z",
   "description": "Ruby / RubyCocoa for the iPhone SDK",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -320,7 +320,7 @@
   "url": "https://github.com/activefx/restful_authentication_tutorial",
   "last_updated": "2009-03-22T01:12:16Z",
   "description": "Full featured restful authentication starter app from http://railsforum.com/viewtopic.php?id=14216 combining role requirement, open id authentication, recaptcha, ui, debugging, and security plugins. ",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -338,7 +338,7 @@
   "url": "https://github.com/cheald/scrap",
   "last_updated": "2009-03-25T23:21:28Z",
   "description": "A Rails metal handler for analyzing your processes' memory usage.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -356,7 +356,7 @@
   "url": "https://github.com/dls/house",
   "last_updated": "2009-04-06T06:00:35Z",
   "description": "Haskell Operating System",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -365,7 +365,7 @@
   "url": "https://github.com/ciaran/projectplus",
   "last_updated": "2009-04-08T18:22:35Z",
   "description": "ProjectPlus is a plug-in for TextMate which extends the functionality of project-related features.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -383,7 +383,7 @@
   "url": "https://github.com/mfp/ocsiblog",
   "last_updated": "2009-04-13T15:52:36Z",
   "description": "Stand-alone, minimalistic blogging engine powered by the Ocsigen web server + framework for OCaml.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -392,7 +392,7 @@
   "url": "https://github.com/maccman/acts_as_recommendable",
   "last_updated": "2009-04-17T11:13:45Z",
   "description": "Collaborative Filtering for Rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -437,7 +437,7 @@
   "url": "https://github.com/ryan-allen/workflow",
   "last_updated": "2009-04-30T05:34:36Z",
   "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -446,6 +446,6 @@
   "url": "https://github.com/schacon/git-presentations",
   "last_updated": "2009-05-05T00:59:01Z",
   "description": "some of my git presentations for others to use to spread the word. Warning: this clone is rather large.",
-  "owner_active": false
+  "owner_active": true
 }
 ]
