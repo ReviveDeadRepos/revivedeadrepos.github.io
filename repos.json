@@ -59,7 +59,7 @@
   "url": "https://github.com/taf2/libebb",
   "last_updated": "2008-08-07T02:50:40Z",
   "description": "a lightweight high-performance HTTP server library for C",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
