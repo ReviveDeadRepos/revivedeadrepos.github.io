@@ -338,7 +338,7 @@
   "url": "https://github.com/cheald/scrap",
   "last_updated": "2009-03-25T23:21:28Z",
   "description": "A Rails metal handler for analyzing your processes' memory usage.",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
