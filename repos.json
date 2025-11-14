@@ -383,7 +383,7 @@
   "url": "https://github.com/mfp/ocsiblog",
   "last_updated": "2009-04-13T15:52:36Z",
   "description": "Stand-alone, minimalistic blogging engine powered by the Ocsigen web server + framework for OCaml.",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
