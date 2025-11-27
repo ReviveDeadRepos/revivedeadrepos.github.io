@@ -194,7 +194,7 @@
   "url": "https://github.com/jamis/fuzzyfinder_textmate",
   "last_updated": "2008-12-31T15:40:48Z",
   "description": "A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained now, see http://weblog.jamisbuck.org/2009/1/28/the-future-of-fuzzyfinder-textmate)",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -203,7 +203,7 @@
   "url": "https://github.com/leahneukirchen/rum",
   "last_updated": "2009-01-12T18:51:52Z",
   "description": "a gRand Unified Mapper for Rack",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -248,7 +248,7 @@
   "url": "https://github.com/lackac/app_lego",
   "last_updated": "2009-02-06T12:29:31Z",
   "description": "A collection of Rails templates I use for projects",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -257,7 +257,7 @@
   "url": "https://github.com/karmi/pushr",
   "last_updated": "2009-02-19T10:26:56Z",
   "description": "Deploy Rails applications automatically by running Capistrano tasks with Git post-commit hooks",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -302,7 +302,7 @@
   "url": "https://github.com/nakajima/sinatras-hat",
   "last_updated": "2009-03-08T00:24:55Z",
   "description": "lol",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -311,7 +311,7 @@
   "url": "https://github.com/takuma104/iphone-rubycocoa",
   "last_updated": "2009-03-08T16:52:29Z",
   "description": "Ruby / RubyCocoa for the iPhone SDK",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -320,7 +320,7 @@
   "url": "https://github.com/activefx/restful_authentication_tutorial",
   "last_updated": "2009-03-22T01:12:16Z",
   "description": "Full featured restful authentication starter app from http://railsforum.com/viewtopic.php?id=14216 combining role requirement, open id authentication, recaptcha, ui, debugging, and security plugins. ",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -329,7 +329,7 @@
   "url": "https://github.com/paulmars/seven_minute_abs",
   "last_updated": "2009-03-23T21:19:06Z",
   "description": "ab testing for rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -365,7 +365,7 @@
   "url": "https://github.com/ciaran/projectplus",
   "last_updated": "2009-04-08T18:22:35Z",
   "description": "ProjectPlus is a plug-in for TextMate which extends the functionality of project-related features.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -392,7 +392,7 @@
   "url": "https://github.com/maccman/acts_as_recommendable",
   "last_updated": "2009-04-17T11:13:45Z",
   "description": "Collaborative Filtering for Rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
