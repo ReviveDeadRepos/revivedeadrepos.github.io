@@ -36,6 +36,15 @@
 }
 ,
 {
+  "name": "speedcrunch",
+  "owner": "ruphy",
+  "url": "https://github.com/ruphy/speedcrunch",
+  "last_updated": "2008-06-04T14:08:55Z",
+  "description": "A fast and usable calculator for power users",
+  "owner_active": true
+}
+,
+{
   "name": "ghost",
   "owner": "MrJag",
   "url": "https://github.com/MrJag/ghost",
@@ -437,15 +446,6 @@
   "url": "https://github.com/ryan-allen/workflow",
   "last_updated": "2009-04-30T05:34:36Z",
   "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
-  "owner_active": true
-}
-,
-{
-  "name": "git-presentations",
-  "owner": "schacon",
-  "url": "https://github.com/schacon/git-presentations",
-  "last_updated": "2009-05-05T00:59:01Z",
-  "description": "some of my git presentations for others to use to spread the word. Warning: this clone is rather large.",
   "owner_active": true
 }
 ]
