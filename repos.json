@@ -77,7 +77,7 @@
   "url": "https://github.com/Sutto/rubyflow",
   "last_updated": "2008-08-08T08:30:00Z",
   "description": "A gitified copy of Peter Cooper's Rubyflow website",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -257,7 +257,7 @@
   "url": "https://github.com/lackac/app_lego",
   "last_updated": "2009-02-06T12:29:31Z",
   "description": "A collection of Rails templates I use for projects",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -266,7 +266,7 @@
   "url": "https://github.com/karmi/pushr",
   "last_updated": "2009-02-19T10:26:56Z",
   "description": "Deploy Rails applications automatically by running Capistrano tasks with Git post-commit hooks",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -311,7 +311,7 @@
   "url": "https://github.com/nakajima/sinatras-hat",
   "last_updated": "2009-03-08T00:24:55Z",
   "description": "lol",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -320,7 +320,7 @@
   "url": "https://github.com/takuma104/iphone-rubycocoa",
   "last_updated": "2009-03-08T16:52:29Z",
   "description": "Ruby / RubyCocoa for the iPhone SDK",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -329,7 +329,7 @@
   "url": "https://github.com/activefx/restful_authentication_tutorial",
   "last_updated": "2009-03-22T01:12:16Z",
   "description": "Full featured restful authentication starter app from http://railsforum.com/viewtopic.php?id=14216 combining role requirement, open id authentication, recaptcha, ui, debugging, and security plugins. ",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -338,7 +338,7 @@
   "url": "https://github.com/paulmars/seven_minute_abs",
   "last_updated": "2009-03-23T21:19:06Z",
   "description": "ab testing for rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -347,7 +347,7 @@
   "url": "https://github.com/cheald/scrap",
   "last_updated": "2009-03-25T23:21:28Z",
   "description": "A Rails metal handler for analyzing your processes' memory usage.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -374,7 +374,7 @@
   "url": "https://github.com/ciaran/projectplus",
   "last_updated": "2009-04-08T18:22:35Z",
   "description": "ProjectPlus is a plug-in for TextMate which extends the functionality of project-related features.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -401,7 +401,7 @@
   "url": "https://github.com/maccman/acts_as_recommendable",
   "last_updated": "2009-04-17T11:13:45Z",
   "description": "Collaborative Filtering for Rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -428,7 +428,7 @@
   "url": "https://github.com/rizqme/chain.js",
   "last_updated": "2009-04-26T13:44:42Z",
   "description": "Data Binding Plugin for jQuery",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -446,6 +446,6 @@
   "url": "https://github.com/ryan-allen/workflow",
   "last_updated": "2009-04-30T05:34:36Z",
   "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
-  "owner_active": false
+  "owner_active": true
 }
 ]
