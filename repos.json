@@ -5,7 +5,7 @@
   "url": "https://github.com/joshknowles/rspec-on-rails-matchers",
   "last_updated": "2008-03-26T19:40:02Z",
   "description": "A collection of RSpec matchers to be used with the Ruby on Rails project",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
