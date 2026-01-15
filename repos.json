@@ -329,7 +329,7 @@
   "url": "https://github.com/activefx/restful_authentication_tutorial",
   "last_updated": "2009-03-22T01:12:16Z",
   "description": "Full featured restful authentication starter app from http://railsforum.com/viewtopic.php?id=14216 combining role requirement, open id authentication, recaptcha, ui, debugging, and security plugins. ",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
