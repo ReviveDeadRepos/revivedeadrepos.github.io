@@ -266,7 +266,7 @@
   "url": "https://github.com/karmi/pushr",
   "last_updated": "2009-02-19T10:26:56Z",
   "description": "Deploy Rails applications automatically by running Capistrano tasks with Git post-commit hooks",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -311,7 +311,7 @@
   "url": "https://github.com/nakajima/sinatras-hat",
   "last_updated": "2009-03-08T00:24:55Z",
   "description": "lol",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -320,7 +320,7 @@
   "url": "https://github.com/takuma104/iphone-rubycocoa",
   "last_updated": "2009-03-08T16:52:29Z",
   "description": "Ruby / RubyCocoa for the iPhone SDK",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -338,7 +338,7 @@
   "url": "https://github.com/paulmars/seven_minute_abs",
   "last_updated": "2009-03-23T21:19:06Z",
   "description": "ab testing for rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -401,7 +401,7 @@
   "url": "https://github.com/maccman/acts_as_recommendable",
   "last_updated": "2009-04-17T11:13:45Z",
   "description": "Collaborative Filtering for Rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -428,7 +428,7 @@
   "url": "https://github.com/rizqme/chain.js",
   "last_updated": "2009-04-26T13:44:42Z",
   "description": "Data Binding Plugin for jQuery",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
