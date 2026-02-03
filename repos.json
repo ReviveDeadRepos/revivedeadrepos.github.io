@@ -1,2 +1,451 @@
 [
+{
+  "name": "rspec-on-rails-matchers",
+  "owner": "joshknowles",
+  "url": "https://github.com/joshknowles/rspec-on-rails-matchers",
+  "last_updated": "2008-03-26T19:40:02Z",
+  "description": "A collection of RSpec matchers to be used with the Ruby on Rails project",
+  "owner_active": true
+}
+,
+{
+  "name": "acts_as_state_machine",
+  "owner": "omghax",
+  "url": "https://github.com/omghax/acts_as_state_machine",
+  "last_updated": "2008-04-13T06:45:51Z",
+  "description": "Fork of acts_as_state_machine plugin for Rails",
+  "owner_active": false
+}
+,
+{
+  "name": "acts_as_tree",
+  "owner": "rails",
+  "url": "https://github.com/rails/acts_as_tree",
+  "last_updated": "2008-05-29T20:25:50Z",
+  "description": "NOTICE: official repository moved to https://github.com/amerine/acts_as_tree",
+  "owner_active": false
+}
+,
+{
+  "name": "auto_complete",
+  "owner": "rails",
+  "url": "https://github.com/rails/auto_complete",
+  "last_updated": "2008-05-29T20:28:34Z",
+  "description": "NOTICE: official repository moved to https://github.com/david-kerins/auto_complete",
+  "owner_active": false
+}
+,
+{
+  "name": "speedcrunch",
+  "owner": "ruphy",
+  "url": "https://github.com/ruphy/speedcrunch",
+  "last_updated": "2008-06-04T14:08:55Z",
+  "description": "A fast and usable calculator for power users",
+  "owner_active": true
+}
+,
+{
+  "name": "ghost",
+  "owner": "MrJag",
+  "url": "https://github.com/MrJag/ghost",
+  "last_updated": "2008-06-26T14:33:25Z",
+  "description": "Ghost (Game Host) -- A dedicated Warcraft III game host for Battle.net and PvPGN.",
+  "owner_active": false
+}
+,
+{
+  "name": "acts_as_network",
+  "owner": "sjlombardo",
+  "url": "https://github.com/sjlombardo/acts_as_network",
+  "last_updated": "2008-07-19T15:13:31Z",
+  "description": "Rails plugin for cleanly modeling social networks using ActiveRecord",
+  "owner_active": true
+}
+,
+{
+  "name": "libebb",
+  "owner": "taf2",
+  "url": "https://github.com/taf2/libebb",
+  "last_updated": "2008-08-07T02:50:40Z",
+  "description": "a lightweight high-performance HTTP server library for C",
+  "owner_active": true
+}
+,
+{
+  "name": "rubyflow",
+  "owner": "Sutto",
+  "url": "https://github.com/Sutto/rubyflow",
+  "last_updated": "2008-08-08T08:30:00Z",
+  "description": "A gitified copy of Peter Cooper's Rubyflow website",
+  "owner_active": true
+}
+,
+{
+  "name": "rails-iui",
+  "owner": "noelrappin",
+  "url": "https://github.com/noelrappin/rails-iui",
+  "last_updated": "2008-08-18T19:48:48Z",
+  "description": "Rails wrapper for the iUI toolkit for building iPhone enabled web applications",
+  "owner_active": true
+}
+,
+{
+  "name": "gitjour",
+  "owner": "chad",
+  "url": "https://github.com/chad/gitjour",
+  "last_updated": "2008-08-24T01:41:03Z",
+  "description": "Serve git and advertise with bonjour",
+  "owner_active": true
+}
+,
+{
+  "name": "fmdb-migration-manager",
+  "owner": "mocra",
+  "url": "https://github.com/mocra/fmdb-migration-manager",
+  "last_updated": "2008-09-15T05:10:18Z",
+  "description": "Schema Migration support for the SQLite library FMDB",
+  "owner_active": false
+}
+,
+{
+  "name": "streamlined",
+  "owner": "relevance",
+  "url": "https://github.com/relevance/streamlined",
+  "last_updated": "2008-09-28T18:24:22Z",
+  "description": null,
+  "owner_active": false
+}
+,
+{
+  "name": "env-js",
+  "owner": "jeresig",
+  "url": "https://github.com/jeresig/env-js",
+  "last_updated": "2008-10-12T15:27:10Z",
+  "description": "A pure-JavaScript browser environment.",
+  "owner_active": true
+}
+,
+{
+  "name": "merb-core",
+  "owner": "wycats",
+  "url": "https://github.com/wycats/merb-core",
+  "last_updated": "2008-10-13T02:31:34Z",
+  "description": "Merb Core: All you need. None you don't.",
+  "owner_active": true
+}
+,
+{
+  "name": "merb-more",
+  "owner": "wycats",
+  "url": "https://github.com/wycats/merb-more",
+  "last_updated": "2008-10-15T18:43:13Z",
+  "description": "Merb More: The Full Stack. Take what you need; leave what you don't.",
+  "owner_active": true
+}
+,
+{
+  "name": "paipr",
+  "owner": "olabini",
+  "url": "https://github.com/olabini/paipr",
+  "last_updated": "2008-10-19T15:22:19Z",
+  "description": "Paradigms of Artificial Intelligence Programming (in Ruby)",
+  "owner_active": false
+}
+,
+{
+  "name": "iphone-libs",
+  "owner": "leonho",
+  "url": "https://github.com/leonho/iphone-libs",
+  "last_updated": "2008-11-12T18:48:11Z",
+  "description": "Varies useful libs, classes, and methods for iPhone development",
+  "owner_active": true
+}
+,
+{
+  "name": "tank-engine",
+  "owner": "noelrappin",
+  "url": "https://github.com/noelrappin/tank-engine",
+  "last_updated": "2008-12-09T20:05:14Z",
+  "description": "A new plugin for creating Rails applications targeted for iPhones. A successor to rails_iui",
+  "owner_active": true
+}
+,
+{
+  "name": "facebook-memcached-old",
+  "owner": "fbmarc",
+  "url": "https://github.com/fbmarc/facebook-memcached-old",
+  "last_updated": "2008-12-12T07:52:18Z",
+  "description": "Facebooks modifications to memcached for I/O, CPU and memcory scaling",
+  "owner_active": false
+}
+,
+{
+  "name": "masochism",
+  "owner": "technoweenie",
+  "url": "https://github.com/technoweenie/masochism",
+  "last_updated": "2008-12-16T05:00:09Z",
+  "description": "ActiveRecord connection proxy for master/slave connections",
+  "owner_active": false
+}
+,
+{
+  "name": "wmd",
+  "owner": "cky",
+  "url": "https://github.com/cky/wmd",
+  "last_updated": "2008-12-28T12:18:11Z",
+  "description": "Stack Overflow branch of WMD (not maintained any more, please use PageDown instead)",
+  "owner_active": false
+}
+,
+{
+  "name": "fuzzyfinder_textmate",
+  "owner": "jamis",
+  "url": "https://github.com/jamis/fuzzyfinder_textmate",
+  "last_updated": "2008-12-31T15:40:48Z",
+  "description": "A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained now, see http://weblog.jamisbuck.org/2009/1/28/the-future-of-fuzzyfinder-textmate)",
+  "owner_active": true
+}
+,
+{
+  "name": "rum",
+  "owner": "leahneukirchen",
+  "url": "https://github.com/leahneukirchen/rum",
+  "last_updated": "2009-01-12T18:51:52Z",
+  "description": "a gRand Unified Mapper for Rack",
+  "owner_active": true
+}
+,
+{
+  "name": "context",
+  "owner": "jm",
+  "url": "https://github.com/jm/context",
+  "last_updated": "2009-01-31T15:31:17Z",
+  "description": "A super tight library to add contexts to tests.",
+  "owner_active": false
+}
+,
+{
+  "name": "matchy",
+  "owner": "jm",
+  "url": "https://github.com/jm/matchy",
+  "last_updated": "2009-01-31T15:37:32Z",
+  "description": "RSpec-esque matchers for Test::Unit",
+  "owner_active": false
+}
+,
+{
+  "name": "prawnto",
+  "owner": "prior",
+  "url": "https://github.com/prior/prawnto",
+  "last_updated": "2009-02-02T13:22:18Z",
+  "description": "a featureful rails plugin leveraging the new kickass prawn library to produce compiled pdf views",
+  "owner_active": false
+}
+,
+{
+  "name": "askit",
+  "owner": "enormego",
+  "url": "https://github.com/enormego/askit",
+  "last_updated": "2009-02-05T21:12:12Z",
+  "description": "ASKit is an easy to use library for your iOS applications. ASKit provides AppStore styled table views [tags:ios,appstore,objective-c]",
+  "owner_active": false
+}
+,
+{
+  "name": "app_lego",
+  "owner": "lackac",
+  "url": "https://github.com/lackac/app_lego",
+  "last_updated": "2009-02-06T12:29:31Z",
+  "description": "A collection of Rails templates I use for projects",
+  "owner_active": false
+}
+,
+{
+  "name": "pushr",
+  "owner": "karmi",
+  "url": "https://github.com/karmi/pushr",
+  "last_updated": "2009-02-19T10:26:56Z",
+  "description": "Deploy Rails applications automatically by running Capistrano tasks with Git post-commit hooks",
+  "owner_active": true
+}
+,
+{
+  "name": "merb-plugins",
+  "owner": "wycats",
+  "url": "https://github.com/wycats/merb-plugins",
+  "last_updated": "2009-02-24T23:57:04Z",
+  "description": "Merb Plugins: Even more modules to hook up your Merb installation",
+  "owner_active": true
+}
+,
+{
+  "name": "rbp",
+  "owner": "practicingruby",
+  "url": "https://github.com/practicingruby/rbp",
+  "last_updated": "2009-02-27T19:40:59Z",
+  "description": "Code examples from Ruby Best Practices",
+  "owner_active": false
+}
+,
+{
+  "name": "in_place_editing",
+  "owner": "rails",
+  "url": "https://github.com/rails/in_place_editing",
+  "last_updated": "2009-02-28T03:00:39Z",
+  "description": "NOTICE: official repository moved to https://github.com/amerine/in_place_editing",
+  "owner_active": false
+}
+,
+{
+  "name": "jobberrails",
+  "owner": "jcnetdev",
+  "url": "https://github.com/jcnetdev/jobberrails",
+  "last_updated": "2009-03-02T20:32:21Z",
+  "description": "Jobberbase on Rails",
+  "owner_active": false
+}
+,
+{
+  "name": "sinatras-hat",
+  "owner": "nakajima",
+  "url": "https://github.com/nakajima/sinatras-hat",
+  "last_updated": "2009-03-08T00:24:55Z",
+  "description": "lol",
+  "owner_active": true
+}
+,
+{
+  "name": "iphone-rubycocoa",
+  "owner": "takuma104",
+  "url": "https://github.com/takuma104/iphone-rubycocoa",
+  "last_updated": "2009-03-08T16:52:29Z",
+  "description": "Ruby / RubyCocoa for the iPhone SDK",
+  "owner_active": true
+}
+,
+{
+  "name": "restful_authentication_tutorial",
+  "owner": "activefx",
+  "url": "https://github.com/activefx/restful_authentication_tutorial",
+  "last_updated": "2009-03-22T01:12:16Z",
+  "description": "Full featured restful authentication starter app from http://railsforum.com/viewtopic.php?id=14216 combining role requirement, open id authentication, recaptcha, ui, debugging, and security plugins. ",
+  "owner_active": true
+}
+,
+{
+  "name": "seven_minute_abs",
+  "owner": "paulmars",
+  "url": "https://github.com/paulmars/seven_minute_abs",
+  "last_updated": "2009-03-23T21:19:06Z",
+  "description": "ab testing for rails",
+  "owner_active": false
+}
+,
+{
+  "name": "scrap",
+  "owner": "cheald",
+  "url": "https://github.com/cheald/scrap",
+  "last_updated": "2009-03-25T23:21:28Z",
+  "description": "A Rails metal handler for analyzing your processes' memory usage.",
+  "owner_active": false
+}
+,
+{
+  "name": "django-elsewhere",
+  "owner": "leah",
+  "url": "https://github.com/leah/django-elsewhere",
+  "last_updated": "2009-03-29T23:46:08Z",
+  "description": "Edit and display links to your online social network profiles.",
+  "owner_active": false
+}
+,
+{
+  "name": "house",
+  "owner": "dls",
+  "url": "https://github.com/dls/house",
+  "last_updated": "2009-04-06T06:00:35Z",
+  "description": "Haskell Operating System",
+  "owner_active": false
+}
+,
+{
+  "name": "projectplus",
+  "owner": "ciaran",
+  "url": "https://github.com/ciaran/projectplus",
+  "last_updated": "2009-04-08T18:22:35Z",
+  "description": "ProjectPlus is a plug-in for TextMate which extends the functionality of project-related features.",
+  "owner_active": false
+}
+,
+{
+  "name": "rails-templates",
+  "owner": "jm",
+  "url": "https://github.com/jm/rails-templates",
+  "last_updated": "2009-04-09T22:47:33Z",
+  "description": "A library of neat Rails application templates.",
+  "owner_active": false
+}
+,
+{
+  "name": "ocsiblog",
+  "owner": "mfp",
+  "url": "https://github.com/mfp/ocsiblog",
+  "last_updated": "2009-04-13T15:52:36Z",
+  "description": "Stand-alone, minimalistic blogging engine powered by the Ocsigen web server + framework for OCaml.",
+  "owner_active": false
+}
+,
+{
+  "name": "acts_as_recommendable",
+  "owner": "maccman",
+  "url": "https://github.com/maccman/acts_as_recommendable",
+  "last_updated": "2009-04-17T11:13:45Z",
+  "description": "Collaborative Filtering for Rails",
+  "owner_active": true
+}
+,
+{
+  "name": "seinfeld",
+  "owner": "entp",
+  "url": "https://github.com/entp/seinfeld",
+  "last_updated": "2009-04-20T23:55:24Z",
+  "description": null,
+  "owner_active": false
+}
+,
+{
+  "name": "feather",
+  "owner": "mleung",
+  "url": "https://github.com/mleung/feather",
+  "last_updated": "2009-04-21T13:22:38Z",
+  "description": "Uber lightweight Merb blogging engine. Make sure you check out the feather-plugins repo as well!",
+  "owner_active": false
+}
+,
+{
+  "name": "chain.js",
+  "owner": "rizqme",
+  "url": "https://github.com/rizqme/chain.js",
+  "last_updated": "2009-04-26T13:44:42Z",
+  "description": "Data Binding Plugin for jQuery",
+  "owner_active": true
+}
+,
+{
+  "name": "rifgraf",
+  "owner": "adamwiggins",
+  "url": "https://github.com/adamwiggins/rifgraf",
+  "last_updated": "2009-04-29T19:02:22Z",
+  "description": "Fire-and-forget data collection and graphing service",
+  "owner_active": false
+}
+,
+{
+  "name": "workflow",
+  "owner": "ryan-allen",
+  "url": "https://github.com/ryan-allen/workflow",
+  "last_updated": "2009-04-30T05:34:36Z",
+  "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
+  "owner_active": true
+}
 ]
