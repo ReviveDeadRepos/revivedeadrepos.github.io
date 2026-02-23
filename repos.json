@@ -59,7 +59,7 @@
   "url": "https://github.com/sjlombardo/acts_as_network",
   "last_updated": "2008-07-19T15:13:31Z",
   "description": "Rails plugin for cleanly modeling social networks using ActiveRecord",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
