@@ -14,7 +14,7 @@
   "url": "https://github.com/omghax/acts_as_state_machine",
   "last_updated": "2008-04-13T06:45:51Z",
   "description": "Fork of acts_as_state_machine plugin for Rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
