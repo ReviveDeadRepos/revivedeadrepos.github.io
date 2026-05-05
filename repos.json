@@ -266,7 +266,7 @@
   "url": "https://github.com/karmi/pushr",
   "last_updated": "2009-02-19T10:26:56Z",
   "description": "Deploy Rails applications automatically by running Capistrano tasks with Git post-commit hooks",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
