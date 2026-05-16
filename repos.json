@@ -401,7 +401,7 @@
   "url": "https://github.com/maccman/acts_as_recommendable",
   "last_updated": "2009-04-17T11:13:45Z",
   "description": "Collaborative Filtering for Rails",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -428,7 +428,7 @@
   "url": "https://github.com/rizqme/chain.js",
   "last_updated": "2009-04-26T13:44:42Z",
   "description": "Data Binding Plugin for jQuery",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -437,7 +437,7 @@
   "url": "https://github.com/adamwiggins/rifgraf",
   "last_updated": "2009-04-29T19:02:22Z",
   "description": "Fire-and-forget data collection and graphing service",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
@@ -446,6 +446,6 @@
   "url": "https://github.com/ryan-allen/workflow",
   "last_updated": "2009-04-30T05:34:36Z",
   "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
-  "owner_active": true
+  "owner_active": false
 }
 ]
