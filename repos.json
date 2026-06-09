@@ -239,7 +239,7 @@
   "url": "https://github.com/prior/prawnto",
   "last_updated": "2009-02-02T13:22:18Z",
   "description": "a featureful rails plugin leveraging the new kickass prawn library to produce compiled pdf views",
-  "owner_active": true
+  "owner_active": false
 }
 ,
 {
