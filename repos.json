@@ -358,4 +358,94 @@
   "description": "Edit and display links to your online social network profiles.",
   "owner_active": false
 }
+,
+{
+  "name": "house",
+  "owner": "dls",
+  "url": "https://github.com/dls/house",
+  "last_updated": "2009-04-06T06:00:35Z",
+  "description": "Haskell Operating System",
+  "owner_active": false
+}
+,
+{
+  "name": "projectplus",
+  "owner": "ciaran",
+  "url": "https://github.com/ciaran/projectplus",
+  "last_updated": "2009-04-08T18:22:35Z",
+  "description": "ProjectPlus is a plug-in for TextMate which extends the functionality of project-related features.",
+  "owner_active": false
+}
+,
+{
+  "name": "rails-templates",
+  "owner": "jm",
+  "url": "https://github.com/jm/rails-templates",
+  "last_updated": "2009-04-09T22:47:33Z",
+  "description": "A library of neat Rails application templates.",
+  "owner_active": true
+}
+,
+{
+  "name": "ocsiblog",
+  "owner": "mfp",
+  "url": "https://github.com/mfp/ocsiblog",
+  "last_updated": "2009-04-13T15:52:36Z",
+  "description": "Stand-alone, minimalistic blogging engine powered by the Ocsigen web server + framework for OCaml.",
+  "owner_active": false
+}
+,
+{
+  "name": "acts_as_recommendable",
+  "owner": "maccman",
+  "url": "https://github.com/maccman/acts_as_recommendable",
+  "last_updated": "2009-04-17T11:13:45Z",
+  "description": "Collaborative Filtering for Rails",
+  "owner_active": true
+}
+,
+{
+  "name": "seinfeld",
+  "owner": "entp",
+  "url": "https://github.com/entp/seinfeld",
+  "last_updated": "2009-04-20T23:55:24Z",
+  "description": null,
+  "owner_active": false
+}
+,
+{
+  "name": "feather",
+  "owner": "mleung",
+  "url": "https://github.com/mleung/feather",
+  "last_updated": "2009-04-21T13:22:38Z",
+  "description": "Uber lightweight Merb blogging engine. Make sure you check out the feather-plugins repo as well!",
+  "owner_active": false
+}
+,
+{
+  "name": "chain.js",
+  "owner": "rizqme",
+  "url": "https://github.com/rizqme/chain.js",
+  "last_updated": "2009-04-26T13:44:42Z",
+  "description": "Data Binding Plugin for jQuery",
+  "owner_active": false
+}
+,
+{
+  "name": "rifgraf",
+  "owner": "adamwiggins",
+  "url": "https://github.com/adamwiggins/rifgraf",
+  "last_updated": "2009-04-29T19:02:22Z",
+  "description": "Fire-and-forget data collection and graphing service",
+  "owner_active": false
+}
+,
+{
+  "name": "workflow",
+  "owner": "ryan-allen",
+  "url": "https://github.com/ryan-allen/workflow",
+  "last_updated": "2009-04-30T05:34:36Z",
+  "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
+  "owner_active": true
+}
 ]
