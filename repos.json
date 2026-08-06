@@ -446,6 +446,6 @@
   "url": "https://github.com/ryan-allen/workflow",
   "last_updated": "2009-04-30T05:34:36Z",
   "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
-  "owner_active": true
+  "owner_active": false
 }
 ]
