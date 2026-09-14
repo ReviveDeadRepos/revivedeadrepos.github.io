@@ -212,7 +212,7 @@
   "url": "https://github.com/leahneukirchen/rum",
   "last_updated": "2009-01-12T18:51:52Z",
   "description": "a gRand Unified Mapper for Rack",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -221,7 +221,7 @@
   "url": "https://github.com/jm/context",
   "last_updated": "2009-01-31T15:31:17Z",
   "description": "A super tight library to add contexts to tests.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -230,7 +230,7 @@
   "url": "https://github.com/jm/matchy",
   "last_updated": "2009-01-31T15:37:32Z",
   "description": "RSpec-esque matchers for Test::Unit",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -257,7 +257,7 @@
   "url": "https://github.com/lackac/app_lego",
   "last_updated": "2009-02-06T12:29:31Z",
   "description": "A collection of Rails templates I use for projects",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -311,7 +311,7 @@
   "url": "https://github.com/nakajima/sinatras-hat",
   "last_updated": "2009-03-08T00:24:55Z",
   "description": "lol",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -320,7 +320,7 @@
   "url": "https://github.com/takuma104/iphone-rubycocoa",
   "last_updated": "2009-03-08T16:52:29Z",
   "description": "Ruby / RubyCocoa for the iPhone SDK",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -329,7 +329,7 @@
   "url": "https://github.com/activefx/restful_authentication_tutorial",
   "last_updated": "2009-03-22T01:12:16Z",
   "description": "Full featured restful authentication starter app from http://railsforum.com/viewtopic.php?id=14216 combining role requirement, open id authentication, recaptcha, ui, debugging, and security plugins. ",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -338,7 +338,7 @@
   "url": "https://github.com/paulmars/seven_minute_abs",
   "last_updated": "2009-03-23T21:19:06Z",
   "description": "ab testing for rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -347,7 +347,7 @@
   "url": "https://github.com/cheald/scrap",
   "last_updated": "2009-03-25T23:21:28Z",
   "description": "A Rails metal handler for analyzing your processes' memory usage.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -383,7 +383,7 @@
   "url": "https://github.com/jm/rails-templates",
   "last_updated": "2009-04-09T22:47:33Z",
   "description": "A library of neat Rails application templates.",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -401,7 +401,7 @@
   "url": "https://github.com/maccman/acts_as_recommendable",
   "last_updated": "2009-04-17T11:13:45Z",
   "description": "Collaborative Filtering for Rails",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
@@ -428,7 +428,7 @@
   "url": "https://github.com/rizqme/chain.js",
   "last_updated": "2009-04-26T13:44:42Z",
   "description": "Data Binding Plugin for jQuery",
-  "owner_active": false
+  "owner_active": true
 }
 ,
 {
