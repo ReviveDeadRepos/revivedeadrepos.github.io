@@ -351,15 +351,6 @@
 }
 ,
 {
-  "name": "django-elsewhere",
-  "owner": "leah",
-  "url": "https://github.com/leah/django-elsewhere",
-  "last_updated": "2009-03-29T23:46:08Z",
-  "description": "Edit and display links to your online social network profiles.",
-  "owner_active": false
-}
-,
-{
   "name": "house",
   "owner": "dls",
   "url": "https://github.com/dls/house",
@@ -446,6 +437,15 @@
   "url": "https://github.com/ryan-allen/workflow",
   "last_updated": "2009-04-30T05:34:36Z",
   "description": "A Ruby state machine library, like assm / acts_as_state_machine, but with a nicer, more sensible API (in my opinion).",
+  "owner_active": true
+}
+,
+{
+  "name": "git-presentations",
+  "owner": "schacon",
+  "url": "https://github.com/schacon/git-presentations",
+  "last_updated": "2009-05-05T00:59:01Z",
+  "description": "some of my git presentations for others to use to spread the word. Warning: this clone is rather large.",
   "owner_active": true
 }
 ]
